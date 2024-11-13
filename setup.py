@@ -27,7 +27,6 @@ for file in archive.infolist():
     if name[1] == "":
         continue
 
-    print("."+name[0])
     os.makedirs("."+name[0], exist_ok=True)
 
     try:

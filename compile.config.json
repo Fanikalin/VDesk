@@ -1,0 +1,9 @@
+{
+	"id": "vdesk",
+	"name": "Vdesk",
+	"authors": [
+		"_Fanikalin_"
+	],
+	"license": "MIT",
+	"sources": "https://github.com/FabricMC/fabric-example-mod"
+}
